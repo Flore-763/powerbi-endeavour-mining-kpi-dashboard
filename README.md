@@ -36,7 +36,7 @@ Ces KPI permettent de mesurer l’efficacité des opérations et d’identifier 
 * **Microsoft Excel** – Visualisation des données
 * **Power BI** - Création de tableaux de bord
 * **Microsoft PowerPoint** – Présentation des tableaux de bord
-* **GitHub** – Gestion de versions et documentation du projet
+* **GitHub** – Documentation du projet
 
 
 ## 📂 Structure du dépôt
@@ -58,7 +58,7 @@ powerbi_perfomances_dashboard_endeavour_mining/
 
 ## 📌 À propos du projet
 
-Ce travail s’inscrit dans le cadre de mon stage au sein du service **Customer Business Solutions**(CBS) d'AGL Burkina Faso.Cette activité d’**analyse de données et de reporting**, visait à améliorer le suivi des opérations logistiques grâce à des **tableaux de bord interactifs et à la visualisation des KPI**.
+Ce travail s’inscrit dans le cadre de mon stage au sein du service **Customer Business Solutions**(CBS) de AGL Burkina Faso.Cette activité d’**analyse de données et de reporting**, visait à améliorer le suivi des opérations logistiques grâce à des **tableaux de bord interactifs et à la visualisation des KPI**.
 
 
 
@@ -66,4 +66,3 @@ Ce travail s’inscrit dans le cadre de mon stage au sein du service **Customer 
 
 Flore Simporé
 Étudiante en Informatique et Data Science
-Power BI | Analyse de données | Création de dashboards
