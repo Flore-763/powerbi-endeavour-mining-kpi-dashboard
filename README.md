@@ -58,7 +58,7 @@ powerbi_perfomances_dashboard_endeavour_mining/
 
 ## 📌 À propos du projet
 
-Ce travail s’inscrit dans le cadre de mon stage au sein du service **Customer Business Solutionsune activité**(CBS) d'AGL Burkina Faso.Cette activité d’**analyse de données et de reporting**, visait à améliorer le suivi des opérations logistiques grâce à des **tableaux de bord interactifs et à la visualisation des KPI**.
+Ce travail s’inscrit dans le cadre de mon stage au sein du service **Customer Business Solutions**(CBS) d'AGL Burkina Faso.Cette activité d’**analyse de données et de reporting**, visait à améliorer le suivi des opérations logistiques grâce à des **tableaux de bord interactifs et à la visualisation des KPI**.
 
 
 
